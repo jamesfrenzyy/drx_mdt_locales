@@ -16,10 +16,10 @@
   },
 
   "CITIZENS": {
-    "LABEL": "CITIZENS",
+    "LABEL": "NCIC DATABASE",
     "EDIT": "EDIT CITIZEN {identifier}",
-    "GRANT": "GRANT LICENCE",
-    "REVOKE": "REVOKE LICENCE"
+    "GRANT": "GRANT LICENSE",
+    "REVOKE": "REVOKE LICENSE"
   },
 
   "INCIDENTS": {
@@ -75,7 +75,7 @@
   },
 
   "VEHICLES": {
-    "LABEL": "VEHICLES",
+    "LABEL": "DMV REGISTRY",
     "EDIT": "EDIT VEHICLE {plate}"
   },
 
@@ -183,9 +183,9 @@
           }
         },
         "CITIZENS": {
-          "VIEW": "ACCESS CITIZENS PAGE",
-          "SEARCH": "SEARCH CITIZENS DATA",
-          "EDIT": "EDIT CITIZENS DATA"
+          "VIEW": "ACCESS NCIC DATABASE",
+          "SEARCH": "SEARCH NCIC DATABASE",
+          "EDIT": "EDIT NCIC DATABASE"
         },
         "INCIDENTS": {
           "VIEW": "ACCESS INCIDENTS PAGE",
@@ -208,9 +208,9 @@
           "DELETE": "DELETE BOLOS & WARRANTS DATA"
         },
         "VEHICLES": {
-          "VIEW": "ACCESS VEHICLES PAGE",
-          "SEARCH": "SEARCH VEHICLES DATA",
-          "EDIT": "EDIT VEHICLES DATA"
+          "VIEW": "ACCESS DMV REGISTRY PAGE",
+          "SEARCH": "SEARCH DMV REGISTRY DATA",
+          "EDIT": "EDIT DMV REGISTRY DATA"
         },
         "EVIDENCE": {
           "VIEW": "ACCESS EVIDENCE PAGE",
@@ -396,11 +396,11 @@
 
   "BOXES": {
     "IDENTITY": "IDENTITY",
-    "LICENCES": "LICENCES",
+    "LICENSES": "LICENSES",
     "STATS": "STATS",
     "ITEMS": "ITEMS",
     "TAGS": "TAGS",
-    "VEHICLES": "VEHICLES",
+    "VEHICLES": "DMV REGISTRY",
     "HOUSING": "PROPERTIES",
     "EMPLOYMENT": "EMPLOYMENT",
     "CONVICTIONS": "CONVICTIONS",
