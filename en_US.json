@@ -307,7 +307,7 @@
   "SET_WAYPOINT": "Set waypoint",
   "UNKNOWN_CATEGORY": "Unknown Category",
 
-  "STATEID": "State ID: (#{identifier})",
+  "STATEID": "Citizen ID: (#{identifier})",
   "FULLNAME": "Fullname: {fullname}",
   "BADGENUMBER": "Badge#: {badgenumber}",
   "CREATED_BY": "Created by: {user}",
@@ -355,7 +355,7 @@
   },
 
   "PLACEHOLDER": {
-    "STATEID": "State ID",
+    "STATEID": "Citizen ID",
     "FULLNAME": "Fullname",
     "ALIAS": "Alias",
     "DEPARTMENT": "Department",
@@ -470,7 +470,7 @@
       "flashEnabled": "Flash: {flashEnabled}",
       "birthdate": "Birthdate: {birthdate}",
       "nationaility": "Nationaility: {nationaility}",
-      "identifier": "State ID: {identifier}",
+      "identifier": "Citizen ID: {identifier}",
       "gender": "Gender: {gender}",
       "firstname": "Firstname: {firstname}",
       "lastname": "Lastname: {lastname}"
